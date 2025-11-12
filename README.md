@@ -2,7 +2,7 @@
 O **DEV BURGER** é um projeto fictício desenvolvido com o objetivo de **praticar e aprimorar habilidades em front-end**.  
 Trata-se de um **cardápio virtual moderno e responsivo**, que simula o sistema de pedidos de uma hamburgueria, com **validação de horário e endereço, além de integração via WhatsApp API**.
 
-## 🖇Live - https://vercel.com/valkirias-projects-c2a92bba/projeto-dev-burguer
+## 🖇Live - https://projeto-dev-burguer-five.vercel.app/
 ---
 
 ## 🚀 Funcionalidades
